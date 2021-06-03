@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the House of Commons in Parliament assembled. Declaring 1 That the people are under God the originall of all just power. 2 That the Commons of England in Parliament assembled being chosen by, and representing the people, have the supream power in this nation. 3 That whatsoever is enacted or declared for law by the house of Commons assembled in Parliament, hath the force of law. And all the people of this nation are concluded thereby: although the consent and concurrence of the King or House of Peers, bee not had thereunto. And a copy of the covenant between the Kings of England and the people, at their coronation.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83685</idno><idno type="EEBO-CITATION">99864923</idno>
+  <idno type="VID">117155</idno>
+  <idno type="EEBO-PROQUEST">2248530176</idno>
+  
+            <idno type="STC">Wing E2565</idno>
+            <idno type="STC">Thomason E537_18</idno>
+            <idno type="STC">ESTC R205579</idno>
+            <idno type="PROQUEST">99864923</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864923e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117155)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the House of Commons in Parliament assembled. Declaring 1 That the people are under God the originall of all just power. 2 That the Commons of England in Parliament assembled being chosen by, and representing the people, have the supream power in this nation. 3 That whatsoever is enacted or declared for law by the house of Commons assembled in Parliament, hath the force of law. And all the people of this nation are concluded thereby: although the consent and concurrence of the King or House of Peers, bee not had thereunto. And a copy of the covenant between the Kings of England and the people, at their coronation.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield, neer the Queens-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Constitutional law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117155:1"/>
+            <p>
+               <hi>A DECLARATION OF THE House of Commons in Parliament Assembled.</hi>
+            </p>
+            <p>
+               <hi>DECLARING</hi>
+               <list>
+                  <item>1 That the people are under God the Originall of all just power.</item>
+                  <item>2 That the Commons of England in Parliament assembled be<g ref="char:EOLhyphen"/>ing chosen by, and representing the people, have the supream power in this Nation.</item>
+                  <item>3 That whatsoever is Enacted or Declared for Law by the house of Commons assembled in Parliament, hath the force of Law. And all the people of this Nation are concluded thereby: Al<g ref="char:EOLhyphen"/>though the consent and concurrence of the King or House of Peers, bee not had thereunto.</item>
+               </list>
+            </p>
+            <p>And a Copy of The Covenant between the Kings of <hi>England</hi> and the people, at their <hi>Coronation.</hi>
+            </p>
+            <p>LONDON Printed by <hi>Robert Ibbitson,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+            <pb facs="tcp:117155:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb n="1" facs="tcp:117155:2"/>
+            <head>A DECLARATION OF THE House of Commons in Parliament Assembled, Declaring, <hi>That the people are under God the Originall of all</hi> Just POWER.</head>
+            <p>BY an Ordinance of <hi>both Houses of Parliament</hi> Novemb. 2. 1642. <hi>It was declared thus.</hi> There must be a Judge of that Question wherein the safety of the Kingdome depends (for it must not lye undetermined) if then there be not an agreement be<g ref="char:EOLhyphen"/>tweene His Majesty and His Parliament, either His Majesty must be the Judge against his Parliament, or the Parliament without his Majesty; If his Maje<g ref="char:EOLhyphen"/>sty against his Parliament, why not as well of the ne<g ref="char:EOLhyphen"/>cessity in the Question of making a Law without and against their consent, as of denying a Law against their desire and advice? The Judge of the necessity
+<pb n="2" facs="tcp:117155:3"/> in either case by like reason is Judg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both▪ Besides, if his Majesty in this differenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be Judge, hee should be Judge in his owne c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se but the Parliament should be Judges between his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; the Kingdome, as they are in many, if not in all cases. And if his Majesty should bee Judge, hee should bee Judge out of his Courts and against his highest Court which he never is, but the Parliament should onely judge without his Majesties personall consent, which is a Court of Judicature, it alwaies doth, and all o<g ref="char:EOLhyphen"/>ther Courts as well as it, if the King be for the King<g ref="char:EOLhyphen"/>dome, and not the Kingdome for the King. And if the Kingdome best knowes what is for its own good and preservation; and the Parliament be the Repre<g ref="char:EOLhyphen"/>sentative Body of the Kingdome, It is easie to judge who in this case should be the Judge.</p>
+         </div>
+         <div type="Parliamentary_declaration">
+            <opener>
+               <dateline>
+                  <date>Die Jovis 4 January 1648.</date>
+               </dateline>
+            </opener>
+            <p>The Commons of <hi>England</hi> in Parliament assembled, doe Declare,
+<list>
+                  <item>1 That the people are under God the Originall of all just power.</item>
+                  <item>2 That the Commons of <hi>England</hi> in Parlia<g ref="char:EOLhyphen"/>ment assembled, being chosen by, and representing the people, have the supreame power in this Nation.</item>
+                  <item>3 That Whatsoever is enacted; or Declared for Law, by the House of Commons assembled in Par<g ref="char:EOLhyphen"/>liament,
+<pb n="3" facs="tcp:117155:3"/> hath the force of Law. And all the people of this Nation are concluded thereby, although the consent and concurrence of the King or House of Peeres, be not had thereunto.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>H. Elsynge Cler. Par. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="covenant_between_king_and_people">
+            <head>The Covenant between the Kings of <hi>England</hi> and the people, at their <hi>Coronation.</hi>
+            </head>
+            <div xml:lang="frm" type="part">
+               <p>Sire voulez vous grantes &amp; garder &amp; par vostre ser<g ref="char:EOLhyphen"/>ment confirmer au peuple d' Engleterre les Leys &amp; les Custumes a cux grantes par les anciens Roys d' Engleterre vos Predecessuers droitus &amp; devotez a dieu &amp; noment. au Clergie &amp; au peuple par le glorieux Roy sainct Edward vostre predecesseur.</p>
+               <p>Respond. je les grante &amp; promitte:</p>
+               <p>Sire garderez vouz a dieu &amp; a s<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t Eglise &amp; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cler<g ref="char:EOLhyphen"/>gie &amp; au peuple pais &amp; accord en Dieu entirement selon v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vostre poasre.</p>
+               <p>Respons je le feray.</p>
+               <p>Sire grantes vous a tenir &amp; garder les leys &amp; les Custu<g ref="char:EOLhyphen"/>mes dr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iture les les quiels la communante de vostre Roy<g ref="char:EOLhyphen"/>aume aur eflu. &amp; les defenderer &amp; affer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erer al honneur de dieu a vostre poaire.</p>
+               <p>Respons je le grante &amp; promitte.</p>
+               <div type="section">
+                  <p>This we find upon Record to have been taken by <hi>E.</hi> the 2. and <hi>E.</hi> the 3.</p>
+                  <q>
+                     <p>Sir, Will you grant and keep, and by your oath confirme to the people of <hi>England,</hi> the Laws and Cu<g ref="char:EOLhyphen"/>stomes granted to them by ancient Kings of <hi>England,</hi> rightfull men, and devout to God; and namely, the
+<pb n="4" facs="tcp:117155:4"/> Lawes and Customes, and Franchises <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>d to the Clergy, and to the people by the glorious King <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> to your power?</p>
+                     <p>Sir, Yee keep to God and to holy Church, to the Clergy, and to the people, peace, and accord, wholly after your power.</p>
+                     <p>Sir, Yee do to be kept in all your doomes and judg<g ref="char:EOLhyphen"/>ments true and even righteousnesse with mercy▪ and truth.</p>
+                     <p>The King shall answer, <hi>I shall doe it.</hi>
+                     </p>
+                     <p>Sir, Will you grant, fulfill, and defend all rightfull Lawes and Customes, the which the Commons of your Realme shall choose, and shall strengthen and maintain them to the worship of God after your power. The King shall answer, <hi>I grant and behete.</hi>
+                     </p>
+                  </q>
+               </div>
+            </div>
+            <div xml:lang="lat" type="part">
+               <head>Out of an old booke in the Hearaulds Office</head>
+               <p>Sequitur forma juramenti soliti &amp; consueti praestan. per Reges Angliae in eorundem Coronatione quod Archiepiscopus Cantuar. ab i<g ref="char:EOLhyphen"/>isdem <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> recipere consuevit prout in libris Pontifi<g ref="char:EOLhyphen"/>calium Archiepisc. &amp; Epist. plenius continetur.</p>
+               <p>Quod quidem juramentum Richardus Rex Angliae post Conque<g ref="char:EOLhyphen"/>stum secundus in Coronatione sua praestitit &amp; ab Archiepisc. Cantuar. erat receptum &amp; illud idem juramentum dictus Rex post mundum iteravit <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rout in Rot. Cancellarii plenius reperiri pot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit de record.</p>
+               <p>Servabis Ecclesiae Dei, Cleroque &amp; populo pacem ex integro &amp; concordiam in Deo secundum vires tuas.</p>
+               <p>Respondebit, servabo.</p>
+               <p>Facies fieri in omnibus judiciis tuis acu<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> &amp; rectam justitiam &amp; dis<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retionem in misericordia &amp; v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m vires tuas.</p>
+               <p>Respondebit, servabo.</p>
+               <p>Concedis justas leges &amp; consuetudines esse tenendas &amp; promittis pro te eas esse protegendas, &amp; ab honorem Dei corroborand: quas vulgus e<g ref="char:EOLhyphen"/>legerit secundum vires tuas.</p>
+               <p>Respondebit concedo &amp; promitto.</p>
+               <p>Adj<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> predict<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> interrogationib<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s qua just<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fu<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> pronun<g ref="char:EOLhyphen"/>ciatisque
+<pb n="5" facs="tcp:117155:4"/>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> confirmet Rex se omnia servaturum Sacramento super Altare prestito coram cunctis.</p>
+            </div>
+            <div type="part">
+               <head>Ex. Rot. Parliament. 1. H. 4. n. 17.</head>
+               <p>Afterwards the foresaid Arch-bishop of <hi>Canterbury</hi> having taken the corporall Oath of our Lord the King to grant and keep, and with his Oath to confirm the Lawes and Customes granted to the people of the Kingdome of <hi>England,</hi> by ancient, iust and devout Kings of <hi>England,</hi> the progenitors of the said King, and especially the Laws, Customes and Freedomes granted to the Clergy and people of the said King<g ref="char:EOLhyphen"/>dome by the most glorious and most holy King <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> to keep to God, and the holy Church of God, and to the Clergy and people peace and concord in God intirely according to his power, &amp; to cause equal and right iustice to be done, and discretion in mercy and truth, and also to hold and keep the iust Lawes and Customes of the Church, and to cause that by our said Lord the King they should be protected, and to the honour of God strengthened, which the people should iustly and reasonably chuse to the power of the said Lord the King: the foresaid Arch-bishop go<g ref="char:EOLhyphen"/>ing to the foure sides of the said Scaffold declared and related to all the people how that our Lord the King had taken the said Oath, enquiring of the same people if they would consent to have him their King and leig Lord, to obey him as their King and Leig-Lord, who, with one accord consented thereunto.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <head>Out of the Claus. Rot. 1. R. 2. M. 44.</head>
+               <p>Subsequenterquè capto per praefatum Archiepiscopum Cantuar sa<g ref="char:EOLhyphen"/>cramento Domi. Regis corporali de concedendo &amp; servando cum sacra confirmationo leges &amp; consuetudines ab antiquis justis &amp; Deo devotis Regibus Angliae, progenitoribus ipsius Regis Plebi Regni Angliae concessis &amp; presertim leges, consuetudines &amp; libertates à gloriosissimo
+<pb n="6" facs="tcp:117155:5"/> &amp; sanctissimo Regi Edro clero populoque Regni pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di<g ref="char:EOLhyphen"/>cti concessis &amp; de servando Deo &amp; Ecclesiae Sanct. D<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ni Cleroque &amp; populi pacem &amp; concordiam integre i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Deo juxta vires tuas &amp; de faciendo fieri in omnib<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> judiciis f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>is aequam &amp; rectam Justiciam &amp; descretionem in mise<g ref="char:EOLhyphen"/>ricordia &amp; veritate &amp; etiam de tenendo &amp; custodiendo justas leges &amp; consuetudines Ecclesiae, ac de faciendo per ipsum Dominum Regem eas esse protegenda<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; ad ho<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rem Dei corroborand. quas vulgus juste &amp; rationabili<g ref="char:EOLhyphen"/>ter elegerit juxta vires, ejusdem Domini Regis praefatus Archiepiscopus ad quatuor partes p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iti praedicti Accedens exposuit &amp; enarravit Vniverso populo, qua<g ref="char:EOLhyphen"/>liter dictus Dominus Rex hujusmodi praestitit Sacr<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tum inquirens ad eodem populo si ipsi consentire vellent <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> habend. ipsum regem &amp; Dom. suum ligeum &amp; ad obedien. &amp; ei tanquam Regi &amp; Dom. lige<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qui uti{que} unanimiter consenserunt.</p>
+               <bibl>Ex Rot Clausar. de An. 1. Ric. 2. M. 44.</bibl>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
